@@ -1,0 +1,16 @@
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      {
+        'label': 'Auto Require Tags'
+        'submenu': [
+          {
+            'label': 'require'
+            'command': 'auto-require-tags:require'
+          }
+        ]
+      }
+    ]
+  }
+]

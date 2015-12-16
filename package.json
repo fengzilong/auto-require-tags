@@ -1,0 +1,16 @@
+{
+  "name": "auto-require-tags",
+  "main": "./lib/auto-require-tags",
+  "version": "0.0.0",
+  "description": "auto require related components",
+  "license": "MIT",
+  "private": true,
+  "repository": "https://github.com/fengzilong/auto-require-tags",
+  "engines": {
+    "atom": ">0.61.0"
+  },
+  "dependencies": {
+    "lodash": "^3.10.1",
+    "requires": "^1.0.2"
+  }
+}

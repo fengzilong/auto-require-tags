@@ -1,0 +1,7 @@
+'context-menu':
+  'atom-text-editor': [
+    {
+      'label': 'Auto Require Tags'
+      'command': 'auto-require-tags:require'
+    }
+  ]
