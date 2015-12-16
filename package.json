@@ -1,7 +1,7 @@
 {
   "name": "auto-require-tags",
   "main": "./lib/auto-require-tags",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "auto require related components",
   "license": "MIT",
   "repository": "https://github.com/fengzilong/auto-require-tags",
