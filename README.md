@@ -4,7 +4,7 @@ add 'require' for all custom components in page(atom package)
 ## Getting Started
 Install the module with: `apm install auto-require-tags`
 
-## screenshot
+## Screenshot
 ![](screenshot.gif)
 
 ## License
